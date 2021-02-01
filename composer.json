@@ -1,4 +1,5 @@
 {
+    "abandoned": true,
     "name": "sensiolabs/security-checker",
     "description": "A security checker for your composer.lock",
     "license": "MIT",
